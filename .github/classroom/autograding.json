@@ -19,6 +19,36 @@
       "comparison": "included",
       "timeout": 1,
       "points": 20
+    },
+    {
+      "name": "3",
+      "setup": "",
+      "run": "./main",
+      "input": "nilai2.txt\r\n13221001",
+      "output": "NIM 13220001 lulus dengan indeks AB",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 20
+    },
+    {
+      "name": "4",
+      "setup": "",
+      "run": "./main",
+      "input": "nilai3.txt\r\n13221032",
+      "output": "NIM 13220032 tidak lulus dengan indeks D",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 20
+    },
+    {
+      "name": "5",
+      "setup": "",
+      "run": "./main",
+      "input": "nilai4.txt\r\n13221032",
+      "output": "NIM 13220032 tidak lulus dengan indeks A",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 20
     }
   ]
 }
