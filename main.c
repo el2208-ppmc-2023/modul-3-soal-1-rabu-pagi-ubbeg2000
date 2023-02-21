@@ -33,7 +33,7 @@ int main() {
 
     // inisialisasi file
     char file[255];
-    printf("Masukkan file: "); scanf("%s", &file);
+    printf("Masukkan file: "); scanf("%s", file);
     FILE* stream = fopen(file, "r");
 
         // Coredata
