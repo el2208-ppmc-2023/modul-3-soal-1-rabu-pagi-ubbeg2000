@@ -14,7 +14,7 @@
       "name": "2",
       "setup": "",
       "run": "./main",
-      "input": "nilai1.txt\r\n13221001",
+      "input": "nilai1.txt\r\n13221032",
       "output": "NIM tidak ada!",
       "comparison": "included",
       "timeout": 1,
@@ -25,7 +25,7 @@
       "setup": "",
       "run": "./main",
       "input": "nilai2.txt\r\n13221001",
-      "output": "NIM 13220001 lulus dengan indeks AB",
+      "output": "NIM 13221001 lulus dengan indeks AB",
       "comparison": "included",
       "timeout": 1,
       "points": 20
@@ -35,7 +35,7 @@
       "setup": "",
       "run": "./main",
       "input": "nilai3.txt\r\n13221032",
-      "output": "NIM 13220032 tidak lulus dengan indeks D",
+      "output": "NIM 13221032 tidak lulus dengan indeks D",
       "comparison": "included",
       "timeout": 1,
       "points": 20
@@ -45,7 +45,7 @@
       "setup": "",
       "run": "./main",
       "input": "nilai4.txt\r\n13221032",
-      "output": "NIM 13220032 tidak lulus dengan indeks A",
+      "output": "NIM 13221032 tidak lulus dengan indeks A",
       "comparison": "included",
       "timeout": 1,
       "points": 20
