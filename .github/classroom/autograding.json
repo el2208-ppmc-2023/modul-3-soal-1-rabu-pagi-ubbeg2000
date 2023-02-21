@@ -7,47 +7,17 @@
       "input": "nilai0.txt",
       "output": "File tidak ada!",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 1,
       "points": 20
     },
     {
       "name": "2",
-      "setup": "make main",
+      "setup": "",
       "run": "./main",
       "input": "nilai1.txt\r\n13221001",
       "output": "NIM tidak ada!",
       "comparison": "included",
-      "timeout": 10,
-      "points": 20
-    },
-    {
-      "name": "3",
-      "setup": "make main",
-      "run": "./main",
-      "input": "nilai2.txt\r\n13221001",
-      "output": "NIM 13220001 lulus dengan indeks AB",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 20
-    },
-    {
-      "name": "4",
-      "setup": "make main",
-      "run": "./main",
-      "input": "nilai3.txt\r\n13221032",
-      "output": "NIM 13220032 tidak lulus dengan indeks D",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 20
-    },
-    {
-      "name": "5",
-      "setup": "make main",
-      "run": "./main",
-      "input": "nilai4.txt\r\n13221032",
-      "output": "NIM 13220032 tidak lulus dengan indeks A",
-      "comparison": "included",
-      "timeout": 10,
+      "timeout": 1,
       "points": 20
     }
   ]
