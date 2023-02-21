@@ -35,7 +35,7 @@
       "setup": "",
       "run": "./main",
       "input": "nilai3.txt\r\n13221032",
-      "output": "NIM 13221032 tidak lulus dengan indeks AB",
+      "output": "NIM 13221032 lulus dengan indeks AB",
       "comparison": "included",
       "timeout": 1,
       "points": 20
@@ -44,8 +44,8 @@
       "name": "5",
       "setup": "",
       "run": "./main",
-      "input": "nilai4.txt\r\n13221032",
-      "output": "NIM 13221032 tidak lulus dengan indeks BC",
+      "input": "nilai4.txt\r\n13221037",
+      "output": "NIM 13221037 tidak lulus dengan indeks BC",
       "comparison": "included",
       "timeout": 1,
       "points": 20
